@@ -14,8 +14,8 @@ Images look like links except with an exclamation directly in front
 
 ## Reminders
 
-- Don't be afraid to fail
+1. Don't be afraid to fail
 
-- Practice is key
+2. Practice is key
 
-- Have fun
+3. Have fun
