@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite sports team](https://www.chelseafc.com/en)
 
 Images look like links except with an exclamation directly in front
 
-![My Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+![My Image](my_image.jpg)
 
 ## Reminders
 
