@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Link
 
-Here's a clickable link: [My favorite sports team](https://www.chelseafc.com/en "Chelsea FC")
+Here's a clickable link: [Chelsea FC](https://www.chelseafc.com/en "Chelsea FC")
 
 ## Images
 
