@@ -2,7 +2,7 @@
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## Link
 
 Here's a clickable link: [My favorite sports team](https://www.chelseafc.com/en)
 
@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite sports team](https://www.chelseafc.com/en)
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+![My Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
 ## Reminders
 
