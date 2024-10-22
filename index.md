@@ -14,10 +14,8 @@ Images look like links except with an exclamation directly in front
 
 ## Reminders
 
-Use a dash space for unordered lists
+- Don't be afraid to fail
 
-- Spaces matter
+- Practice is key
 
-- Spelling matters
-
-- Capitalization matters
+- Have fun
